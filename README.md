@@ -1,3 +1,26 @@
+## parrot_arsdk (lunar) - 3.14.0-0
+
+The packages in the `parrot_arsdk` repository were released into the `lunar` distro by running `/usr/bin/bloom-release parrot_arsdk --track lunar --rosdistro lunar --new-track` on `Fri, 06 Jul 2018 19:42:17 -0000`
+
+The `parrot_arsdk` package was released.
+
+Version of package(s) in repository `parrot_arsdk`:
+
+- upstream repository: https://github.com/AutonomyLab/parrot_arsdk.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.14.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.6`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## parrot_arsdk (kinetic) - 3.14.0-0
 
 The packages in the `parrot_arsdk` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release parrot_arsdk --track kinetic --rosdistro kinetic` on `Fri, 06 Jul 2018 02:12:18 -0000`
