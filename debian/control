@@ -1,0 +1,12 @@
+Source: ros-lunar-parrot-arsdk
+Section: misc
+Priority: extra
+Maintainer: Mani Monajjemi <mmonajje@sfu.ca>
+Build-Depends: debhelper (>= 9.0.0), autoconf, automake, curl, ffmpeg, libavahi-client-dev, libavahi-core-dev, libavcodec-dev, libavformat-dev, libavutil-dev, libcurl4-openssl-dev, libltdl-dev, libncurses5-dev, libswscale-dev, libtool, libtool-bin, nasm, ros-lunar-catkin, unzip, yasm, zlib1g-dev
+Homepage: http://wiki.ros.org/parrot_arsdk
+Standards-Version: 3.9.2
+
+Package: ros-lunar-parrot-arsdk
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Catkin wrapper for the official ARSDK from Parrot
